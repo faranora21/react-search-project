@@ -8,6 +8,7 @@ export default function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <Weather />
+      <p><a href="https://github.com/faranora21/react-search-project" target="_blank">Open source code</a> by Farah</p>
     </div>
   );
 }
